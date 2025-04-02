@@ -26,7 +26,7 @@ LLM（大規模言語モデル）を活用したデータ分析のためのリ�
 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/yourusername/llm-data-lab.git
+git clone https://github.com/karaage0703/llm-data-lab.git
 cd llm-data-lab
 ```
 
