@@ -19,7 +19,6 @@ accelerate>=0.20.0
 tqdm>=4.65.0
 pyyaml>=6.0
 python-dotenv>=1.0.0
-ruff==0.9.1
 
 # 開発用パッケージ
 pytest>=7.3.1
