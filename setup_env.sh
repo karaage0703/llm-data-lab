@@ -28,7 +28,7 @@ source .venv/bin/activate
 
 # 依存関係をインストール
 echo "依存関係をインストールしています..."
-uv pip install -e ".[dev]"
+uv pip install -r requirements.txt
 
 # pre-commitフックをインストール（オプション）
 if [ -f ".pre-commit-config.yaml" ]; then
